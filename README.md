@@ -1,6 +1,7 @@
 # pull-request
+<!-- 
 To get github's new achievements.
-
+-->
 이번에 깃허브에서 새로운 뱃지들이 추가가 되었습니다! 
 [github community](https://github.com/github-community/community/discussions/categories/profile) 에 자세한 내용들이 나와있지만 한글로 정리해둔 글은 없어서 간단히 정리합니다...!
 
